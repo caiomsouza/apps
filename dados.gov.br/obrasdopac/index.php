@@ -8,15 +8,12 @@
 <script src="jquery/development-bundle/ui/jquery.ui.core.js"></script>
 <script src="jquery/development-bundle/ui/jquery.ui.widget.js"></script>
 <script src="jquery/development-bundle/ui/jquery.ui.tabs.js"></script>
-<link rel="stylesheet" href="/it4biz/jquery-ui-1.8.17.custom/development-bundle/demos/demos.css">
-<script>
-$(function() {
-	$( "#tabs" ).tabs();
-});
-</script>
+<!--<link rel="stylesheet" href="/it4biz/jquery-ui-1.8.17.custom/development-bundle/demos/demos.css">-->
 
 <script type="text/javascript">
-
+	$(document).ready(function(){
+		$( "#tabs" ).tabs();
+	});
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-668417-10']);
   _gaq.push(['_trackPageview']);
@@ -51,7 +48,7 @@ $(function() {
 		<iframe src="http://www.it4biz.com.br/apps/dados.gov.br/obrasdopac/MapadeControledosEmpreendimentos/" width="100%" height="1200"  frameborder="0"></iframe>
 	</div>	
 	<div id="tabs-3">
-		<iframe src="http://www.it4biz.com.br/apps/dados.gov.br/obrasdopac/CuboOLAP" width="100%" height="1200"  frameborder="0"></iframe>
+		<iframe src="http://www.it4biz.com.br/apps/dados.gov.br/obrasdopac/CuboOLAP/" width="100%" height="1200"  frameborder="0"></iframe>
 	</div>
 	<div id="tabs-4">
 		
