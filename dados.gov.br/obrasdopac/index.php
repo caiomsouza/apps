@@ -69,6 +69,13 @@ O objetivo deste aplicativo é demonstrar para os clientes e possíveis clientes
 
 	</div>
 	<div id="tabs-5">
+
+<p>Para facilitar o entendimento deste aplicativo assista o video abaixo:</p>
+
+<p>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/RWP8NI3A4LQ" frameborder="0" allowfullscreen></iframe>
+</p>
+
 		<p>Para facilitar o entendimento deste aplicativo criamos um video curto de 1 minuto e 45 segundos:</p>
 <p><iframe width="640" height="360" src="http://www.youtube.com/embed/OmJ4OXLZ3_0?feature=player_embedded" frameborder="0" allowfullscreen></iframe></p>
 
