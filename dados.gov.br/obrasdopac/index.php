@@ -45,7 +45,7 @@ $(function() {
 		
 	</ul>
 	<div id="tabs-1" >	
-		<iframe src="http://23.23.194.193/pentaho/content/pentaho-cdf-dd/Render?solution=PAC&path=%2FDashboards&file=Painel+de+Controle+dos+Empreendimentos.wcdf&userid=obrasdopac&password=it4biz" width="100%" height="1200"  frameborder="0"></iframe>
+		<iframe src="http://it4bizbiservices.com/pentaho/content/pentaho-cdf-dd/Render?solution=PAC&path=%2FDashboards&file=Painel+de+Controle+dos+Empreendimentos.wcdf&userid=obrasdopac&password=it4biz" width="100%" height="1200"  frameborder="0"></iframe>
 	</div>
 	<div id="tabs-2">
 		<iframe src="http://www.it4biz.com.br/apps/dados.gov.br/obrasdopac/MapadeControledosEmpreendimentos/" width="100%" height="1200"  frameborder="0"></iframe>
